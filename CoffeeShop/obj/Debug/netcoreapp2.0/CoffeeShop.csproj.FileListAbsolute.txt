@@ -1,0 +1,44 @@
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.deps.json
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.runtimeconfig.json
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.runtimeconfig.dev.json
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.dll
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.pdb
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.dll
+C:\Users\metiH\Downloads\tos2\SeniorProject\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.pdb
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.deps.json
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.runtimeconfig.json
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.runtimeconfig.dev.json
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.dll
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.pdb
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.dll
+C:\Users\metiH\Desktop\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.pdb
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.deps.json
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.runtimeconfig.json
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.runtimeconfig.dev.json
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.dll
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.pdb
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.dll
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.pdb
+C:\Users\metiH\Downloads\fwmicroparasites\Module5-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.deps.json
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.runtimeconfig.json
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.runtimeconfig.dev.json
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.dll
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\bin\Debug\netcoreapp2.0\CoffeeShop.pdb
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.dll
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.pdb
+C:\Users\metiH\Desktop\New folder\Module6-master\CoffeeShop\obj\Debug\netcoreapp2.0\CoffeeShop.csprojResolveAssemblyReference.cache
